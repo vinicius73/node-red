@@ -7,8 +7,6 @@ on:
       - "v*.*.*"
       - "v*.*"
       - "v*"
-    branches:
-      - "main"
 
 jobs:
   docker-registry:
