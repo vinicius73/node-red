@@ -1,4 +1,4 @@
-FROM nodered/node-red:3.1.9-debian
+FROM nodered/node-red:3.1.11-debian
 
 # Install ffmpeg
 USER root
